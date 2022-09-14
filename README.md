@@ -2,13 +2,6 @@
 
 #### I'm an Android Developer 💻 📱 and have managing skills in App development from paper idea into reality. My Android Development journey has started since 2017 and in this total experience I've contributed some of them as a open source contributor on GitHub and YouTube.
 
-### What I'm Focusing On :muscle:
-
-- ⚡ Flutter ...
-- ⚡ React JS ...
-- ⚡ Android App Development ...
-
-
 ## Reach me via
 
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCJYf6kPfPfBP6898SGE7taA/featured)
